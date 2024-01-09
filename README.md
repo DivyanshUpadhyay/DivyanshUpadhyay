@@ -1,12 +1,13 @@
 ![logo](https://github.com/DivyanshUpadhyay/DivyanshUpadhyay/blob/main/github-header-image.png)
 <h1 align="center">Hi 👋, I'm Divyansh Upadhyay</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
+<p>
 <img align="right" alt="coding" width="400" src="https://camo.githubusercontent.com/7de37139d0b4c1ce40865e799b446c0e963a3dd8fb68d239707237c40604fa3d/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966"/>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=divyanshupadhyay&label=Profile%20views&color=0e75b6&style=flat" alt="divyanshupadhyay" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=divyanshupadhyay" alt="divyanshupadhyay" /></a> </p>
+
 
 - 🔭 I’m currently working on **Majestic Journey**
 
@@ -33,3 +34,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=divyanshupadhyay&show_icons=true&locale=en" alt="divyanshupadhyay" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=divyanshupadhyay&" alt="divyanshupadhyay" /></p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=divyanshupadhyay" alt="divyanshupadhyay" /></a> </p>
