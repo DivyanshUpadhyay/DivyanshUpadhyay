@@ -23,7 +23,7 @@
 <p align="left">
 <a href="https://instagram.com/divyansh_upadhyay03" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="divyansh_upadhyay03" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/rockingamerz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="rockingamerz" height="30" width="40" /></a>
-
+<a href="https://www.hackerrank.com/divyanshupadhya3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="divyanshupadhya3" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
